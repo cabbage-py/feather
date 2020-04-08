@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/feather/static/css/main.f9960cd1.chunk.css",
-    "main.js": "/feather/static/js/main.df970f06.chunk.js",
-    "main.js.map": "/feather/static/js/main.df970f06.chunk.js.map",
+    "main.css": "/feather/static/css/main.06b1be66.chunk.css",
+    "main.js": "/feather/static/js/main.aeed5e07.chunk.js",
+    "main.js.map": "/feather/static/js/main.aeed5e07.chunk.js.map",
     "runtime-main.js": "/feather/static/js/runtime-main.5969ad6c.js",
     "runtime-main.js.map": "/feather/static/js/runtime-main.5969ad6c.js.map",
     "static/js/2.4689d31b.chunk.js": "/feather/static/js/2.4689d31b.chunk.js",
     "static/js/2.4689d31b.chunk.js.map": "/feather/static/js/2.4689d31b.chunk.js.map",
     "index.html": "/feather/index.html",
-    "precache-manifest.8d0b3be6ccdea57a4ff62e73892b11ee.js": "/feather/precache-manifest.8d0b3be6ccdea57a4ff62e73892b11ee.js",
+    "precache-manifest.6db1f7de166a5c1efe173156fa162f2f.js": "/feather/precache-manifest.6db1f7de166a5c1efe173156fa162f2f.js",
     "service-worker.js": "/feather/service-worker.js",
-    "static/css/main.f9960cd1.chunk.css.map": "/feather/static/css/main.f9960cd1.chunk.css.map",
+    "static/css/main.06b1be66.chunk.css.map": "/feather/static/css/main.06b1be66.chunk.css.map",
     "static/js/2.4689d31b.chunk.js.LICENSE.txt": "/feather/static/js/2.4689d31b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5969ad6c.js",
     "static/js/2.4689d31b.chunk.js",
-    "static/css/main.f9960cd1.chunk.css",
-    "static/js/main.df970f06.chunk.js"
+    "static/css/main.06b1be66.chunk.css",
+    "static/js/main.aeed5e07.chunk.js"
   ]
 }
